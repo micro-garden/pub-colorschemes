@@ -1,0 +1,17 @@
+[{
+	"Name": "pubcolors",
+	"Description": "A public color scheme collection.",
+	"Author": "Aki Kareha",
+	"Tags": ["color", "colorscheme"],
+	"Website": "https://github.com/akikareha/micro-pub-colorschemes",
+	"License": "MIT",
+	"Versions": [
+		{
+			"Version": "0.0.0",
+			"Url": "https://github.com/akikareha/micro-pub-colorschemes/archive/v0.0.0.zip",
+			"Require": {
+				"micro": ">=2.0.0"
+			}
+		}
+	]
+}]

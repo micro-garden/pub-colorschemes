@@ -1,0 +1,4 @@
+
+function init()
+	config.AddRuntimeFile("pubcolors", config.RTHelp, "help/pubcolors.md")
+end

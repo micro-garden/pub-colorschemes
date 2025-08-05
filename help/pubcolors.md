@@ -1,0 +1,33 @@
+# Public Colors Plugin
+
+A public color scheme collection.
+
+## Color Schemes
+
+* `burixon-citrus-dark`
+* `burixon-colorful-dark`
+* `burixon-forest-dark`
+* `burixon-frog-dark`
+* `burixon-frozen-dark`
+* `burixon-latte-dark`
+* `burixon-lava-dark`
+* `burixon-lavender-dark`
+* `burixon-mint-dark`
+* `burixon-moss-dark`
+* `burixon-neon-dark`
+* `burixon-RGB-dark`
+* `burixon-salt-dark`
+* `burixon-sapphire-dark`
+* `burixon-sea-dark`
+* `burixon-waffle-dark`
+* `burixon-warm-dark`
+* `burixon-wine-dark`
+* `kareha-16`
+* `kareha`
+* `mtp`
+* `nord-16-light`
+* `nord-16`
+* `nord-tc-light`
+* `nord-tc`
+* `photon-racer`
+* `bluemood-tc`
