@@ -14,7 +14,7 @@ directly from the GitHub repository:
 
 ```sh
 mkdir -p ~/.config/micro/plug
-git clone https://github.com/akikareha/micro-pub-colorschemes ~/.config/micro/plug/pubcolors
+git clone https://github.com/micro-garden/pub-colorschemes ~/.config/micro/plug/pubcolors
 ```
 
 Then restart micro and run:
@@ -25,7 +25,7 @@ set colorscheme <colorscheme-name>
 
 Alternatively, this plugin is also available through the unofficial plugin
 channel:  
-https://github.com/akikareha/micro-unofficial-plugin-channel  
+https://github.com/micro-garden/unofficial-plugin-channel  
 You can install it by adding the channel and then using `plugin install`.
 
 ### Option 2: Use the colorscheme files only
